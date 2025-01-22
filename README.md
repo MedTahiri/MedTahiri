@@ -10,8 +10,8 @@ I'm a passionate software engineer with a keen interest in exploring and learnin
 - **JetPack Compose**
 
 ## 💼 Skills
-- **Languages**: Java, Kotlin, JavaScript, Python
-- **Frameworks/Libraries**: Jetpack Compose, ReactJS
+- **Languages**: Java, Kotlin, Python
+- **Frameworks/Libraries**: Jetpack Compose, ReactJS, Spring Boot
 - **Tools/Technologies**: Android Studio, IntelliJ IDEA
 
 ## 🚀 What I'm passionate about
