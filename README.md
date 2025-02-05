@@ -1,35 +1,35 @@
-# Hi there, I'm Mohamed Tahiri! 👋
+# Hello World! I'm Mohamed Tahiri, a Moroccan Software Engineer. 👋
 
-I'm a passionate software engineer with a keen interest in exploring and learning new technologies. I love turning ideas into code and building products that make a difference.
+I’m a passionate software engineer with a strong drive to explore and master new technologies. I thrive on turning innovative ideas into functional code and building impactful products that solve real-world problems. My journey in tech is fueled by curiosity, creativity, and a commitment to continuous learning.
 
 ## 🔭 I’m currently working on
-- **Alexander**: Creating a 3D face that can talk like people.
+- **Alexander**: Developing a 3D talking face model that mimics human speech patterns and expressions. This project combines computer vision, natural language processing, and 3D rendering to create a lifelike conversational AI experience.
 
 ## 🌱 I’m currently learning
 - **Spring Boot**
-- **JetPack Compose**
 
-## 💼 Skills
-- **Languages**: Java, Kotlin, Python
-- **Frameworks/Libraries**: Jetpack Compose, ReactJS, Spring Boot
-- **Tools/Technologies**: Android Studio, IntelliJ IDEA
+# 💻 Languages and Tools I Use:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ## 🚀 What I'm passionate about
-- Solving complex problems
-- Learning new technologies
-- Building scalable and efficient systems
-- Contributing to open-source projects
-- Mentoring and knowledge sharing
-
-## 📫 How to reach me
-- Email: [mohamedttaahhiirrii2003@gmail.com](mailto:mohamedttaahhiirrii2003@gmail.com)
-- LinkedIn: [Mohamed Tahiri](https://www.linkedin.com/in/mohamed-tahiri-112239222)
+- **Solving Complex Problems** : Tackling challenging technical problems with innovative solutions.
+- **Learning New Technologies** : Staying updated with the latest trends and tools in software development.
+- **Building Scalable Systems** : Designing and developing systems that are efficient, scalable, and maintainable.
+- **Open-Source Contributions** : Actively contributing to open-source projects to give back to the community.
+- **Mentorship and Knowledge Sharing** : Helping others grow by sharing knowledge and mentoring aspiring developers.
 
 ## 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MedTahiri&show_icons=true&theme=radical)](https://github.com/MedTahiri)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MedTahiri&show_icons=true&theme=radical)](https://github.com/MedTahiri)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MedTahiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MedTahiri&theme=darkhub)](https://github.com/MedTahiri)
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🤝🏻 Connect with me
 Feel free to reach out. I'm always open to interesting conversations and collaboration opportunities!
+
+## 📫 Where to find me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035327430109)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_tahiri_2003)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-tahiri-112239222)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohamed58563644)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedttaahhiirrii2003@gmail.com) 
