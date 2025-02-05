@@ -20,7 +20,8 @@ I’m a passionate software engineer with a strong drive to explore and master n
 
 ## 📈 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MedTahiri&show_icons=true&theme=radical)](https://github.com/MedTahiri)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MedTahiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MedTahiri&hide=Jupyter%20Notebook&layout=compact&theme=radical)
+
 
 ## 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MedTahiri&theme=darkhub)](https://github.com/MedTahiri)
