@@ -10,7 +10,7 @@ I’m a passionate software engineer with a strong drive to explore and master n
 
 # 💻 Languages and Tools I Use:
 <a href="https://github.com/MedTahiri">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,fastapi,flask,django,java,kotlin,spring,mysql,mongodb,sqlite,git,github,npm,gcp,firebase,opencv,threejs,blender,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,fastapi,flask,django,java,kotlin,spring,mysql,mongodb,sqlite,git,github,npm,gcp,firebase,opencv,threejs,blender,figma&perline=15" />
 </a>
 
 ## 🚀 What I'm passionate about
